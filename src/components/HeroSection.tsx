@@ -20,7 +20,7 @@ const HeroSection = () => {
 					</h1>
 					<p className='leading-7 mb-6 [&:not(:first-child)]:mt-6 text-gray-400 sm:text-lg lg:text-xl'>
 						I love developing Full-Stack Web Applications,
-						Open-Source , Bleeding edge technologies and Anime.
+						Open-Source, Bleeding edge technologies and Anime.
 					</p>
 					<div className='flex gap-2'>
 						<Button className='w-full sm:w-fit'>Connect</Button>
